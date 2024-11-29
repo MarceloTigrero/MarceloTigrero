@@ -16,11 +16,11 @@
 - **DevOps:** Docker, Kubernetes, OpenShift.  
 
 ## 🌐 Enlaces  
-- **Portafolio:** [marcelotigrero.github.io/Portafolio](https://marcelotigrero.github.io/Portafolio/)  
+- **Portafolio:** [**Portafolio**](https://marcelotigrero.github.io/Portafolio/)  
 - **LinkedIn:** [linkedin.com/in/marcelo-tigrero](https://www.linkedin.com/in/marcelo-tigrero/)  
 
 ## 📫 Contacto  
-- **Email:** [marcelo.tigrero@example.com](mailto:tigreromarcelo@gmail.com)  
+- **Email:** [tigreromarcelo@gmail.com](mailto:tigreromarcelo@gmail.com)  
 - **GitHub:** [github.com/marcelo-tigrero](https://github.com/marcelo-tigrero)  
 
 ---
