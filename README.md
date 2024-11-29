@@ -21,7 +21,7 @@
 
 ## 📫 Contacto  
 - **Email:** [tigreromarcelo@gmail.com](mailto:tigreromarcelo@gmail.com)  
-- **GitHub:** [github.com/marcelo-tigrero](https://github.com/marcelo-tigrero)  
+- **GitHub:** [github.com/marcelo-tigrero](https://github.com/MarceloTigrero) 
 
 ---
 
