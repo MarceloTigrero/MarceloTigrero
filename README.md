@@ -4,7 +4,7 @@
 
 ¡Hola! Soy un desarrollador apasionado por crear soluciones tecnológicas que integran innovación, sostenibilidad y escalabilidad. Este repositorio reúne mis proyectos en software, sistemas energéticos y automatización.  
 
-## 🌟 Proyectos destacados  
+## 🌟 Proyectos en Desarrolló  
 - **[Trampa de grasa ecológica](#):** Innovación sostenible para la economía circular.  
 - **[Sistema de gestión de taxis](#):** Plataforma para empresas y cooperativas de transporte.  
 - **[Almacenamiento de energía autónomo](#):** Soluciones para garantizar energía continua.  
